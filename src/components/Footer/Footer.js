@@ -1,8 +1,14 @@
 import React from 'react';
 
-const Footer = () => (
+<<<<<<< HEAD
+const Footer = ({count}) => (
     <div>
-       Footer
+      Осталось выполнить вот столько дел: {count}
+=======
+const Footer = ({ count }) => (
+    <div>
+       Footer {count}
+>>>>>>> e0501053a34aad2cb7463dde092cc700dee1c557
     </div>
 );
 
