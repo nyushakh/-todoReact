@@ -1,0 +1,16 @@
+.item {
+    color: #333;
+}
+.done {
+    color: #4545;
+    text-decoration: dashed;
+}
+
+
+ul,li {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
